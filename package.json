@@ -1,0 +1,23 @@
+{
+  "name": "adhd_planner",
+  "version": "1.0.0",
+  "description": "Ideal planner for an ADHD brain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd client && npm run dev",
+    "install": "cd client && npm install",
+    "i": "cd client && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unheardof77/ADHD_planner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unheardof77/ADHD_planner/issues"
+  },
+  "homepage": "https://github.com/unheardof77/ADHD_planner#readme"
+}
